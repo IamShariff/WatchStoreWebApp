@@ -1,6 +1,6 @@
-# TeamA-WatchStore
+# WatchHub
 
-Watch Store aims to provide a user-friendly and efficient online platform for customers to explore and purchase a wide range of watches. The project encompasses features such as user authentication, product catalog, shopping cart, order management.
+Watch Hub aims to provide a user-friendly and efficient online platform for customers to explore and purchase a wide range of watches. The project encompasses features such as user authentication, product catalog, shopping cart, order management.
 
 
 
@@ -28,7 +28,6 @@ To run the watch store backend locally, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://git.nagarro.com/GITG01656/BFSI_FRESHERS/2023/teama-watchstore.git
 
 2. Navigate to the project directory:
 
